@@ -4,8 +4,7 @@ There's a rough design image in this directory that I'll probably follow, for no
 
 These are the components that I intend on creating:
 
-- [x] Make draft design
-- [ ] HTTP Server
+- [x] HTTP Server
 - [ ] Transaction Receiver/Emitter
 - [ ] Transaction Pool
 - [ ] Executor
